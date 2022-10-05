@@ -15,7 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=park-moen)](https://velog.io/@park-moen)
+<img src="https://img.shields.io/badge/gozldgkwlakfk1%40gmail-blue?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://velog.io/@park-moen" target="_blank"><img src="https://img.shields.io/badge/blog-brightgreen?style=flat-square&logo=Velog&logoColor=white"/></a>
+
+</br>
+</br>
+
+### 🛠 skill
+
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/>
+
+</br>
+</br>
+
+<img src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+
+</br>
+</br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+
+</br>
+</br>
 
 ### 📮 post
 

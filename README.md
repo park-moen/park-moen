@@ -22,17 +22,11 @@ Here are some ideas to get you started:
 - 시스템 설계 구조를 통해 통일된 코드 베이스를 만드는 방법에 관한 생각하는 것을 좋아합니다.
 - 토론을 통해 여러 사람의 의견을 듣는 것을 좋아하며, 새롭게 배운 기술에 대해 전파하기 좋아합니다.
 
-</br>
-
 ### 🛠 skill
 
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-
-</br>
 
 ### 📮 post
 

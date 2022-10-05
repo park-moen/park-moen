@@ -1,4 +1,4 @@
-### Hi there 👋
+## 🧬 Park-Moen
 
 <!--
 **park-moen/park-moen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=park-moen)](https://velog.io/@park-moen)
+
+### 📮 post
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=park-moen)](https://velog.io/@park-moen/%ED%81%B4%EB%A1%9C%EC%A0%80closure)

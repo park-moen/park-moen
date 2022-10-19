@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 ### 📮 post
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=park-moen)](https://velog.io/@park-moen/%ED%81%B4%EB%A1%9C%EC%A0%80closure)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=park-moen)](https://velog.io/@park-moen)
